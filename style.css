@@ -21,7 +21,7 @@ body {
 
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
-    font-size: 52px; /* Set font size for the question */
+    font-size: 72px; /* Set font size for the question */
 }
 
 #options {
@@ -38,3 +38,4 @@ button {
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
+
