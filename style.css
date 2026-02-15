@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: Arial, sans-serif; /* Fallback font family */
+ font-family: "Bitcount Grid Double", system-ui;
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
     background-color: #0b60e8; /* Set background color to light pink */
@@ -38,5 +38,6 @@ button {
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
+
 
 
