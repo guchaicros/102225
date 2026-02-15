@@ -20,7 +20,7 @@ body {
 }
 
 #question {
-    font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
+    font-family: "Bitcount Grid Double", system-ui;
     font-size: 72px; /* Set font size for the question */
 }
 
@@ -38,4 +38,5 @@ button {
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
+
 
